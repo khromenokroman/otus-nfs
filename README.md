@@ -1,5 +1,5 @@
 # nfs
-Otus linux-2022-01
+Otus linux-2023-02
 
 Vagrant стенд для NFS
 
